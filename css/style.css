@@ -1,12 +1,22 @@
 /* Reset default styles */
-body {
+* {
     margin: 0;
     padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p, ul, ol, li {
-    margin: 5px;
-    padding: 5px;
+p {
+    font-size: 28px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+a {
+    font-family: monospace;
+    font-size: 12px;
+    text-decoration: none;
+    color: #808080;
+    margin-left: 10px;
+    margin-bottom: 20px;
 }
 
 .kings-regular {
