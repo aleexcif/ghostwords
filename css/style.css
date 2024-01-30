@@ -1,0 +1,74 @@
+/* Reset default styles */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 5px;
+    padding: 5px;
+}
+
+.kings-regular {
+    font-family:"kings-caslon";
+    font-display:auto;
+    font-style:normal;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+.kings-italic {
+    font-family:"kings-caslon";
+    font-display:auto;
+    font-style:italic;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+.kings-bold {
+    font-family:"kings-caslon";
+    font-display:auto;
+    font-style:normal;
+    font-weight:700;
+    font-stretch:normal;
+}
+
+.kings-bold-italic {
+    font-family:"kings-caslon";
+    font-display:auto;
+    font-style:italic;
+    font-weight:700;
+    font-stretch:normal;
+}
+
+.ivy-regular {
+    font-family:"ivymode";
+    font-display:auto;
+    font-style:normal;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+ivy-italic {
+    font-family:"ivymode";
+    font-display:auto;
+    font-style:italic;
+    font-weight:400;
+    font-stretch:normal;
+}
+
+ivy-bold {
+    font-family:"ivymode";
+    font-display:auto;
+    font-style:normal;
+    font-weight:700;
+    font-stretch:normal;
+}
+
+ivy-bold-italic {
+    font-family:"ivymode";
+    font-display:auto;
+    font-style:italic;
+    font-weight:700;
+    font-stretch:normal;
+}
